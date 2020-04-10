@@ -24,7 +24,7 @@ At Envoy we encourage you to continue learning and growing. We understand you ma
 ### Your Computer
 We have no opinion on the setup or tools you want to use. Feel free to use any editor, terminal and other tools you wish to use. If you have something awesome you use please share it with the team!
 
-####Okta portal
+#### Okta portal
 We use Okta to manage access to various accounts. It's very helpful place to find all of the services with use and authenticate into them appropriately.
 [Okta](https://weareenvoy.okta.com/)
 
