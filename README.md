@@ -20,3 +20,16 @@ At Envoy we encourage you to continue learning and growing. We understand you ma
 -------------------------------------------
 
 ## Technical Details
+
+### Your Computer
+We have no opinion on the setup or tools you want to use. Feel free to use any editor, terminal and other tools you wish to use. If you have something awesome you use please share it with the team!
+
+####Okta portal
+We use Okta to manage access to various accounts. It's very helpful place to find all of the services with use and authenticate into them appropriately.
+[Okta](https://weareenvoy.okta.com/)
+
+### Version Control
+If you haven't figured it out already, we use Github for all of our code managment and version control 😉.
+
+### Branching process
+TBD
