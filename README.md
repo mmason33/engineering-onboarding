@@ -24,12 +24,21 @@ At Envoy we encourage you to continue learning and growing. We understand you ma
 ### Your Computer
 We have no opinion on the setup or tools you want to use. Feel free to use any editor, terminal and other tools you wish to use. If you have something awesome you use please share it with the team!
 
-#### Okta portal
+### Okta portal
 We use Okta to manage access to various accounts. It's very helpful place to find all of the services with use and authenticate into them appropriately.
 [Okta](https://weareenvoy.okta.com/)
+
+### Last Pass
+We use Last Pass to manage passwords and access to a lot of client projects. You should be setup with Last Pass access at some point in your first 30 days. It's helpful single source for use share env creds, client portal accounts and other information. If you want to request access please reach out to your direct manager or the IT administrator.
 
 ### Version Control
 If you haven't figured it out already, we use Github for all of our code managment and version control 😉.
 
 ### Branching process
 TBD
+
+### Standups
+We don't have traditional daily standup call or meeting. Standups are done Monday, Wednesday and Friday through a slack integration called Bot Alice. Please ensure that you fill out the standup form appropriately.
+
+### Friday Retro Meeting
+Each Friday we have a retro meeting for the current week. This is an informal meeting to go over anything from the current week. It's also a platform to talk about upcoming projects, clients and work. You should recieve a recurring meeting invite for the weekly team retro.
